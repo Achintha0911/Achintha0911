@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Achintha! 👋
 
-<!--
-**Achintha0911/Achintha0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Computer Engineering Student
+- 💻 Passionate about Software Development,Computer security & AI
+- 🔭 Currently working on road safety AI solutions
+- 🌱 Learning React, Java, JavaScript, MERN Stack, Spring Boot,kubernetes & Python
+- 📫 How to reach me: achintha.official.2001@gmail.com
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Languages:** C++, HTML,python,java,C,TypeScript,Dart 
+- **Frameworks:** Flutter,React
+- **Tools:** VSCode,IntelliJ IDEA,PyCharm,Git,Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- 🚗 RoadSafeAI](https://github.com/Achintha0911/RoadSafeAI) - AI-powered road safety solution
+- 🌱 GrowmateWebpages](https://github.com/Achintha0911/GrowmateWebpages) - Plant leaf disease detection system
+
+## GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Achintha0911&show_icons=true&theme=radical)
