@@ -5,7 +5,7 @@
 - 💻 Passionate about Software Development,Computer security & AI
 - 🔭 Currently working on road safety AI solutions
 - 🌱 Learning React, Java, JavaScript, MERN Stack, Spring Boot,kubernetes & Python
-- 📫 How to reach me: achintha.official.2001@gmail.com
+- 📫 How to reach me: achintharathnayake0911@gmail.com
 
 ## Tech Stack
 - **Languages:** C++, HTML,python,java,C,TypeScript,Dart 
