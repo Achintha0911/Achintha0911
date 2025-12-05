@@ -15,6 +15,6 @@
 ## Featured Projects
 - 🚗 RoadSafeAI](https://github.com/Achintha0911/RoadSafeAI) - AI-powered road safety solution
 - 🌱 GrowmateWebpages](https://github.com/Achintha0911/GrowmateWebpages) - Plant leaf disease detection system
-
+🏛️ CIVICLINK -(https://github.com/Senadheera-eng/civic_link.git) Mobile platform connecting citizens with government authorities for reporting public issues
 <!--## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Achintha0911&show_icons=true&theme=radical)-->
