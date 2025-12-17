@@ -101,16 +101,30 @@
 <h2 align="center">🔥 FEATURED PROJECTS</h2>
 
 <div align="center">
-  <table width="70%">
+  <table width="70%" border="0" cellspacing="0" cellpadding="10">
     <tr>
       <td align="left">
-        <h3>🚀 Full-Stack Project (Coming Soon)</h3>
-        <p>Production-ready full-stack web application using React & Node.js</p>
-        <code>React</code> <code>Node.js</code> <code>PostgreSQL</code>
+        <h3>
+          <a href="https://github.com/Senadheera-eng/Growmate.git" style="color:#00a3e0">📱 Growmate</a>
+        </h3>
+        <p>Growmate project</p>
       </td>
     </tr>
   </table>
 </div>
+<div align="center">
+  <table width="70%" border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <td align="left">
+        <h3>
+          <a href="https://github.com/Senadheera-eng/civic_link.git" style="color:#00a3e0">CIVICLINK</a>
+        </h3>
+        <p>CIVICLINK project</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <br>
 
@@ -118,13 +132,13 @@
 <h2 align="center">🌐 CONNECT WITH ME</h2>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/achintha-rathnayake-19b1a92a3">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:achintharathnayake0911@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Achintha0911">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
   </a>
 </div>
