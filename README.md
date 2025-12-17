@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Status-Undergraduate-4ad17a?style=flat-square&labelColor=000000" />
   <img src="https://img.shields.io/badge/Focus-FullStack_&_Data/ML-00a3e0?style=flat-square&labelColor=000000" />
   <img src="https://img.shields.io/badge/Location-Sri_Lanka-ff3860?style=flat-square&labelColor=000000" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00a3e0&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Achintha0911&style=flat-square&color=00a3e0&label=Profile+Views" />
 </div>
 
 <!-- TYPING INTRO -->
@@ -37,7 +37,7 @@
         </ul>
       </td>
       <td width="30%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00a3e0&text_color=FFFFFF" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achintha0911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00a3e0&text_color=FFFFFF" width="100%">
       </td>
     </tr>
   </table>
@@ -54,15 +54,16 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 <h3>Frontend</h3>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
 
 <h3>Backend & Databases</h3>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
@@ -73,6 +74,28 @@
 </div>
 
 <br>
+<!-- GITHUB STATS SECTION - AUTO-GENERATED -->
+<h2 align="center">📊 GITHUB STATS</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Achintha0911&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00a3e0&icon_color=00a3e0&text_color=FFFFFF" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Achintha0911&theme=tokyonight&hide_border=true&background=0D1117&ring=00a3e0&fire=00a3e0&currStreakLabel=00a3e0" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Achintha0911&bg_color=0D1117&color=00a3e0&line=00a3e0&point=FFFFFF&area=true&area_color=00a3e0&hide_border=true" width="96%" alt="Activity Graph" />
+</div>
+
+<br>
+
 
 <!-- FEATURED PROJECTS -->
 <h2 align="center">🔥 FEATURED PROJECTS</h2>
